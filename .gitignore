@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Android
+android/app/build/
+android/.gradle/
+android/*/build/
+android/*/*/build/
+*.apk
+*.aab
+.externalNativeBuild/
+.cxx/
+
+# TLS / Secrets
+*.pem
+*.crt
+*.key
+!*.key.example
+secrets/
+certs/local/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db

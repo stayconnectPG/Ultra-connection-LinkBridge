@@ -1,0 +1,13 @@
+# Android specific
+*.apk
+*.aab
+bin/
+gen/
+.gradle/
+local.properties
+proguard_logs/
+captures/
+.externalNativeBuild/
+.cxx/
+.idea/
+*.iml
